@@ -1,0 +1,40 @@
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .signup{
+    padding-left: 10px;
+    margin: auto;
+}
+#rcorners3{
+    float:center;
+    width: 300px;
+    border-radius: 0px 25px;
+}
+}
+.signup_Button {
+    display: inline-block;
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;    
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    margin-left: 90px;
+    color: rgb(12, 4, 4);
+    background-color: rgb(228, 149, 238);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(69, 82, 155);
+}
+.signup_Button:hover {    
+    background-color: rgb(34, 121, 202);
+    box-shadow: 0 9px rgb(187, 115, 175);
+
+}
+.signup_Button:active {
+    background-color: rgb(228, 149, 238);
+    box-shadow: 0 5px rgb(188, 44, 207);
+    transform: translateY(4px);
+}
