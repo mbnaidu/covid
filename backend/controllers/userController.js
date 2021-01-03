@@ -27,6 +27,7 @@ const registerUser = async(req,res) =>{
         address,
         password:hashed_password
     })
+    
 
     if(newUser){
         return res.json({
