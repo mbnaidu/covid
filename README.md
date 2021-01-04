@@ -45,10 +45,13 @@
 
 
 ### *)MERN stack
-   1.Node Js
-   2.Express JS
-   3.Mongo DB
-    4.React
+###   1.Node Js
+
+###   2.Express JS
+
+###   3.Mongo DB
+
+###    4.React
 
 ## Assumptions, constraints, and solution decision points (Reason behind choosing a technology)
 
