@@ -24,31 +24,35 @@
 
 
 
+## problem statement Understanding
 
-PDF-Page2
+### *)Trying to facilitate Vaccinators and citizens for faster supplying and procurement of vaccine
 
-*)Trying to facilitate Vaccinators and citizens for faster supplying and procurement of vaccine
-
-*)Trying to remove rumors regarding vaccine usage and creating public awareness among two vaccine dosages
-
-
-PDF-Page3
-
-*)This app provides awarness to people through gaming and quizes on corona.Citizen, vaccinator Profile registration authentication is done with full security.Adressing all the queries related to disease and vaccine.Alerts and reminders were given to citizens with by knowing their 1st dosage date.
+### *)Trying to remove rumors regarding vaccine usage and creating public awareness among two vaccine dosages
 
 
-*)We can track the number of persons being registered and vaccinated with the use of our database.The solution progress can be measured by the interaction of the solution with people through feed back and scale of people using the solution.By using some analytics like bar graphs,histograms etc we can depict the impact metrics of the solution.
+## How it helps to solve problem
 
-*)
+  ###  *)This app provides awarness to people through gaming and quizes on corona.Citizen, vaccinator Profile registration authentication is done with full security.Adressing all the    queries related to disease and vaccine.Alerts and reminders were given to citizens with by knowing their 1st dosage date.
 
-MERN stack -
-1.Node Js
-2.Express JS
-3.Mongo DB
-4.React
+## What are the impact metrics that one can use to analyze the effect of the solution?
+
+### *)We can track the number of persons being registered and vaccinated with the use of our database.The solution progress can be measured by the interaction of the solution with people through feed back and scale of people using the solution.By using some analytics like bar graphs,histograms etc we can depict the impact metrics of the solution.
+
+## Frameworks/tools/technologies stacks used
 
 
-*)
+
+
+### *)MERN stack
+   1.Node Js
+   2.Express JS
+   3.Mongo DB
+    4.React
+
+## Assumptions, constraints, and solution decision points (Reason behind choosing a technology)
+
+### *)
 Assumptions-
 1. Come with a pre-built extensive suite of technologies tools.
 2.Feasibility of four technologies: Mongodb, express, react, node.js.
