@@ -96,7 +96,7 @@
   
 ## Flow chart
 
-
+  ![flow chart](https://github.com/mbnaidu/covid/blob/backend/images/flowgraph.jpg)
 
 
 ## Wireframes
@@ -117,7 +117,7 @@
   ### bar graph1
    ![barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot_20210104-183548__01.jpg)
   ### bar graph2 
-   [barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot_20210104-185044.jpg)
+   ![barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot_20210104-185044.jpg)
   ### Pie chart
    ![pie chart](https://github.com/mbnaidu/covid/blob/backend/images/pie.jpg) 
 
@@ -128,6 +128,14 @@
 
 
 ## output/visualizations from the prototype
+  ###  output 1
+   ![output1](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot%20(46).png)
+  ### output 2
+   ![output2](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot%20(47).png)
+  ### output 3
+   ![pie chart](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot%20(48).png) 
+
+
 
 
 
