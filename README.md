@@ -108,11 +108,11 @@
 
 ## Graphical representation (bar graph, histogram, pie charts, heat maps)
   ### bar graph1
-   ![barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/usecase1.jpg)
+   ![barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot_20210104-183548__01.jpg)
   ### bar graph2 
-    ![barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot_20210104-185044.jpg)
+   [barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot_20210104-185044.jpg)
   ### Pie chart
-    ![pie chart](https://github.com/mbnaidu/covid/blob/backend/images/pie.jpg) 
+   ![pie chart](https://github.com/mbnaidu/covid/blob/backend/images/pie.jpg) 
 
 
 
