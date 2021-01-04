@@ -20,28 +20,28 @@
 
 ## Problem  Statement
 
-  ### Three factors are leading to vaccine hesitancy in India, threatening health of its populationꟷ lack of awareness and guidance on vaccination and its benefits, rumours and misinformation on vaccination, and community non-inclusiveness in the vaccination effort. Making information dissemination fun, activity oriented and participatory is in the core of Gamification.
+    * Three factors are leading to vaccine hesitancy in India, threatening health of its populationꟷ lack of awareness and guidance on vaccination and its benefits, rumours and misinformation on vaccination, and community non-inclusiveness in the vaccination effort. Making information dissemination fun, activity oriented and participatory is in the core of Gamification.
 
 
 
 ## problem statement Understanding
 
-### *)Trying to facilitate Vaccinators and citizens for faster supplying and procurement of vaccine
+    *Trying to facilitate Vaccinators and citizens for faster supplying and procurement of vaccine
 
-### *)Trying to remove rumors regarding vaccine usage and creating public awareness among two vaccine dosages
+    *Trying to remove rumors regarding vaccine usage and creating public awareness among two vaccine dosages
 
 
 ## How it helps to solve problem
 
-  ###  *)This app provides awarness to people through gaming and quizes on corona.Citizen, vaccinator Profile registration authentication is done with full security.Adressing all the    queries related to disease and vaccine.Alerts and reminders were given to citizens with by knowing their 1st dosage date.
+        * This app provides awarness to people through gaming and quizes on corona.Citizen, vaccinator Profile registration authentication is done with full security.Adressing all the    queries related to disease and vaccine.Alerts and reminders were given to citizens with by knowing their 1st dosage date.
 
 ## What are the impact metrics that one can use to analyze the effect of the solution?
 
-### *)We can track the number of persons being registered and vaccinated with the use of our database.The solution progress can be measured by the interaction of the solution with people through feed back and scale of people using the solution.By using some analytics like bar graphs,histograms etc we can depict the impact metrics of the solution.
+     * We can track the number of persons being registered and vaccinated with the use of our database.The solution progress can be measured by the interaction of the solution with people through feed back and scale of people using the solution.By using some analytics like bar graphs,histograms etc we can depict the impact metrics of the solution.
 
 ## Frameworks/tools/technologies stacks used
 
-  ### MERN stack
+    * MERN stack
     * Node Js
     * Express JS
     * Mongo DB
@@ -73,24 +73,54 @@
 
 
 
+  ## How easily can your solution be implemented and how effective will it be?
+
+      *)We are using nodejs for solving this problem.Since we are using typical Frontened and backened communication with storing data in Database it may be completed within a few weeks
+
+## Extent of scalability/sability
+
+    *)All APIs of Node are written is such a way that they supports callbacks.This makes Node. js highly scalable.Node. js achieves scalability levels of over 1M concurrent connections,and over 600k concurrent websockets connections. 
+
+
+
+## Architecture diagram
+
+### Architecture diagram 1
+  ![architecture Diagram](https://github.com/mbnaidu/covid/blob/backend/images/usecase1.jpg)
+
+### Architecture diagram 2
+  ![architecture Diagram](https://github.com/mbnaidu/covid/blob/backend/images/usecase2.jpg)
+  
+  
+  
+  
+## Flow chart
+
+
+
+
+## Wireframes
 
 
 
 
 
 
+## Graphical representation (bar graph, histogram, pie charts, heat maps)
+  ### bar graph1
+   ![barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/usecase1.jpg)
+  ### bar graph2 
+    ![barGraph Diagram](https://github.com/mbnaidu/covid/blob/backend/images/Screenshot_20210104-185044.jpg)
+  ### Pie chart
+    ![pie chart](https://github.com/mbnaidu/covid/blob/backend/images/pie.jpg) 
 
 
 
+  
 
 
 
-
-*)We are using nodejs for solving this problem.Since we are using typical Frontened and backened communication with storing data in Database it may be completed within a few weeks
-
-*)All APIs of Node are written is such a way that they supports callbacks.This makes Node. js highly scalable.Node. js achieves scalability levels of over 1M concurrent connections,and over 600k concurrent websockets connections. 
-
-
+## output/visualizations from the prototype
 
 
 
