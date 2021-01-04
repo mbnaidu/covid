@@ -1,15 +1,27 @@
-PDF-Page1
+# Ey Techathon Solve a billion challenge
 
 
-1. GADIRAJU SANJAY VARMA 
+## Team members:
 
-2. KOKKIRALA DINESH VENKATA SAI
+### 1. GADIRAJU SANJAY VARMA 
 
-3. GOPISETTI MADHU BABU
 
-4. JAVVADI VEERA VENKATA VAMSI KRISHNA
+### 2. KOKKIRALA DINESH VENKATA SAI
 
-5. REDDY HARI VENKATA HARSHA VARDHAN
+
+### 3. GOPISETTI MADHU BABU
+
+
+### 4. JAVVADI VEERA VENKATA VAMSI KRISHNA
+
+
+### 5. REDDY HARI VENKATA HARSHA VARDHAN
+
+
+## Problem  Statement
+
+  ### Three factors are leading to vaccine hesitancy in India, threatening health of its populationꟷ lack of awareness and guidance on vaccination and its benefits, rumours and misinformation on vaccination, and community non-inclusiveness in the vaccination effort. Making information dissemination fun, activity oriented and participatory is in the core of Gamification.
+
 
 
 
