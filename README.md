@@ -100,7 +100,14 @@
 
 
 ## Wireframes
-
+   ### game view
+   ![wireframe](https://github.com/mbnaidu/covid/blob/backend/images/ey_game.PNG)
+   ### home view
+   ![wireframe](https://github.com/mbnaidu/covid/blob/backend/images/ey_home.PNG)
+   ### map view
+   ![wireframe](https://github.com/mbnaidu/covid/blob/backend/images/ey_map_page.PNG)
+   ### login view
+   ![wireframe](https://github.com/mbnaidu/covid/blob/backend/images/ey_login.PNG)
 
 
 
