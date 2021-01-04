@@ -41,41 +41,35 @@
 
 ## Frameworks/tools/technologies stacks used
 
+  ### MERN stack
+    * Node Js
+    * Express JS
+    * Mongo DB
 
-
-
-### *)MERN stack
-###   1.Node Js
-
-###   2.Express JS
-
-###   3.Mongo DB
-
-###    4.React
+    * React
 
 ## Assumptions, constraints, and solution decision points (Reason behind choosing a technology)
 
-### *)
-Assumptions-
-1. Come with a pre-built extensive suite of technologies tools.
-2.Feasibility of four technologies: Mongodb, express, react, node.js.
-3. Supports model view controller architecture to make the development process flow smoothly.
-4. As React can run on the server, its code can be used on both browsers and servers.
-5. All the technologies in MERN Stack are free and open source
+      ### Assumptions-
+          * Come with a pre-built extensive suite of technologies tools.
+          * Feasibility of four technologies: Mongodb, express, react, node.js.
+          * Supports model view controller architecture to make the development process flow smoothly.
+          * As React can run on the server, its code can be used on both browsers and servers.
+          * All the technologies in MERN Stack are free and open source 
 
-Constrains-
-1.Very large applications will require these third-party libraries
-2.Reduces performance when handling Heavy Computing Tasks.
-3.Node.js invites a lot of code changes due to Unstable API.
-4.Node.js Asynchronous Programming Model makes it difficult to maintain code
-
+      ### Constraints-
+          * Very large applications will require these third-party libraries
+          * Reduces performance when handling Heavy Computing Tasks.
+          * Node.js invites a lot of code changes due to Unstable API.
+          * Node.js Asynchronous Programming Model makes it difficult to maintain code
 
 
-Solutions-
-1. Again, MERN stack also covers the complete development cycle – starting from frontend development to backend development.
-2. Cover the full web development cycle from front-end development to back-end development using javascript. You need to be proficient in javascript and JSON.
-3. MERN stack supports the MVC architecture which makes the development process hurdle free.
-4. The MERN Stack comes with a set of pre-built exclusive testing tools.
+
+      ### Solutions-
+          * Again, MERN stack also covers the complete development cycle – starting from frontend development to backend development.
+          * Cover the full web development cycle from front-end development to back-end development using javascript. You need to be proficient in javascript and JSON.
+          * MERN stack supports the MVC architecture which makes the development process hurdle free.
+          * The MERN Stack comes with a set of pre-built exclusive testing tools.
 
 
 
