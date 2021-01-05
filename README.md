@@ -18,6 +18,9 @@
 ### 5. REDDY HARI VENKATA HARSHA VARDHAN
 
 
+### The github repo  for this game project is:
+### https://github.com/GadirajuSanjayvarma/CoronaAwareness
+
 ## Problem  Statement
 
     * Three factors are leading to vaccine hesitancy in India, threatening health of its populationꟷ lack of awareness and guidance on vaccination and its benefits, rumours and misinformation on vaccination, and community non-inclusiveness in the vaccination effort. Making information dissemination fun, activity oriented and participatory is in the core of Gamification.
